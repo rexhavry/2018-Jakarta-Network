@@ -1,0 +1,4 @@
+IDsta Latitude Longitude
+JK048	-6.4914	106.7651
+JK085	-6.2103	106.8256
+
